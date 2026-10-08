@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Caio Reis
 
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend**
-🎓 **1o semestre de ADS com foco em Agentes de IA - Instituto Infnet**
+🎓 **2o semestre de ADS com foco em Agentes de IA - Instituto Infnet**
 🇧🇷 Brasil
 
 Estou iniciando minha jornada na área de tecnologia, com foco em **desenvolvimento backend**, **banco de dados** e **programação orientada a objetos**.
