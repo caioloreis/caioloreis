@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Caio Reis
 
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend**
-🎓 1º semestre de ADS com foco em Agentes de IA – Instituto Infnet
+🎓 2º semestre de ADS com foco em Agentes de IA – Instituto Infnet
 🇧🇷 Brasil
 
 Estou iniciando minha jornada na área de tecnologia, com foco em **desenvolvimento backend**, **banco de dados** e **programação orientada a objetos (POO)**.
@@ -15,7 +15,7 @@ Meu objetivo é conquistar uma **oportunidade de estágio na área de TI**, onde
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiovini-reis/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caioloreis)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicaiolo)
 
 ---
 
