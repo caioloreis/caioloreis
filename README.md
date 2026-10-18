@@ -1,112 +1,73 @@
-# Olá 👋, eu sou o Caio Reis
+# Caio
 
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend**
-🎓 2º semestre de ADS com foco em Agentes de IA – Instituto Infnet
-🇧🇷 Brasil
-
-Estou iniciando minha jornada na área de tecnologia, com foco em **desenvolvimento backend**, **banco de dados** e **programação orientada a objetos (POO)**.
-
-Atualmente estudo **Python**, **SQL** e **Java**, trabalhando para construir uma base sólida em lógica de programação, desenvolvimento de sistemas e organização de dados.
-
-Meu objetivo é conquistar uma **oportunidade de estágio na área de TI**, onde eu possa aprender com profissionais experientes, aplicar meus conhecimentos na prática e evoluir como desenvolvedor.
+[LinkedIn](<SEU-LINKEDIN>) · [E-mail](mailto:<SEU-EMAIL>)
 
 ---
 
-## 🌐 Onde me encontrar
+## Hello, devs 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiovini-reis/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicaiolo)
-
----
-
-## 🧠 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Infnet**
-- 🤖 Formação com foco em **Agentes de IA**
-- 💻 Interesse principal em **Backend**
-- ☕ Estudando **Java**
-- 🐍 Estudando **Python**
-- 🗄️ Estudando **SQL** e bancos de dados
-- 📚 Aprendendo **lógica de programação** e **POO**
-- 🔎 Em busca da minha primeira oportunidade de **estágio em TI**
-- 🚀 Em constante evolução por meio de projetos, exercícios e estudos práticos
+Estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para tecnologia, transformando a experiência em logística e o aprendizado em projetos reais.
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+## Sobre mim
 
-### Linguagens
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Instituto Infnet**, na trilha de **Agentes de IA**, e atuo como **Auxiliar de Almoxarifado na Yamaha Motor da Amazônia**, em Manaus. No dia a dia, opero um **WMS** em processos de recebimento, armazenagem e transferência de materiais.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Essa vivência me deu uma visão prática de como os sistemas sustentam uma operação real, e foi o que me levou a programar. Minha base foi construída com **Python**, e hoje aprofundo meus conhecimentos em **Java** (orientação a objetos e Spring Boot) e **C#/.NET**. Também pratico **SQL** e visualização de dados.
 
-### Backend e Banco de Dados
+Como projeto pessoal, desenvolvi um **dashboard de WMS** em HTML, CSS e JavaScript, pensado para uso em tablet, com painéis de operador e administrador, controle de inventário, listas de separação, registro de divergências e mensagens.
 
-![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=serverless&logoColor=white)
-![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=deepnote&logoColor=white)
+Meu objetivo é migrar para a área de tecnologia, com foco em **desenvolvimento backend** e **dados**, e conquistar uma oportunidade para crescer como desenvolvedor.
 
 ---
 
-## 📚 Atualmente aprendendo
+## Tecnologias e ferramentas
 
-- Lógica de programação
-- Programação Orientada a Objetos com Java
-- Estruturas de decisão e repetição
-- Manipulação de dados com SQL
-- Desenvolvimento backend
-- Boas práticas de organização de código
-- Git e GitHub
-- Fundamentos de Inteligência Artificial e Agentes de IA
+### Desenvolvimento
 
----
+[![Python, Java, C Sharp, JavaScript, HTML, CSS, Git e GitHub](https://skillicons.dev/icons?i=python,java,cs,js,html,css,git,github&theme=dark)](https://skillicons.dev)
 
-## 🚀 Projetos em destaque
+### Frameworks
 
-Aqui no GitHub compartilho minha evolução nos estudos por meio de projetos simples, exercícios acadêmicos e práticas pessoais.
+[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
 
-Alguns temas que venho desenvolvendo:
+### Em desenvolvimento
 
-- Sistemas bancários simples em Java
-- Exercícios de lógica com Python
-- Projetos usando Programação Orientada a Objetos
-- Consultas e práticas com SQL
-- Projetos acadêmicos da faculdade
-- Estudos voltados para backend e banco de dados
-
-Confira os repositórios fixados no meu perfil:
-[contaCorrente](https://github.com/caioloreis/contaCorrente) · [JBank](https://github.com/caioloreis/JBank) · [e-commerce](https://github.com/caioloreis/e-commerce) · [customerconnect](https://github.com/caioloreis/customerconnect) · [todolist](https://github.com/caioloreis/todolist)
+![Java em aprendizado](https://img.shields.io/badge/Java-Em%20aprendizado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C Sharp em aprendizado](https://img.shields.io/badge/C%23-Em%20aprendizado-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL em prática](https://img.shields.io/badge/SQL-Em%20pr%C3%A1tica-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Áreas de interesse
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caioloreis&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caioloreis&layout=compact&theme=dark)
-
----
-
-## 🎯 Objetivo
-
-Construir uma carreira na área de tecnologia, principalmente em **Backend**, **Banco de Dados** e **Desenvolvimento de Sistemas**.
-
-Estou em busca de um **estágio em TI** para aplicar meus conhecimentos, aprender com projetos reais e crescer profissionalmente.
+| Área                        | Direção                                             |
+| --------------------------- | --------------------------------------------------- |
+| Desenvolvimento Backend     | APIs, regras de negócio e arquitetura de aplicações |
+| Banco de Dados              | Modelagem, consultas e organização de informações   |
+| Análise de Dados            | Transformar dados em insights e dashboards          |
+| Agentes de IA               | Automação e aplicações com LLMs                     |
+| Logística e Sistemas (WMS)  | Tecnologia aplicada à operação de armazéns          |
 
 ---
 
-## 💡 Filosofia de aprendizagem
+## Diferenciais
 
-> *"A melhor forma de aprender programação é praticando, errando, corrigindo e construindo projetos reais."*
+- Vivência real em operação logística e uso de WMS;
+- Capacidade de entender o problema do usuário de chão de fábrica e transformá-lo em solução;
+- Perfil proativo e com facilidade para aprender;
+- Interesse em unir tecnologia, dados e resolução de problemas;
+- Busca constante por evolução prática e profissional.
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
-🤝 Estou aberto a conexões, aprendizado e oportunidades de estágio na área de tecnologia.
+## Além da tecnologia
+
+Fora do código, gosto de **hardware e configuração de PCs**, de **Linux**, de **futebol** e de acompanhar temas de **infraestrutura e planejamento urbano**.
+
+Acredito que tecnologia funciona melhor quando nasce de um problema real, e é isso que busco construir.
+
+---
+
+*“Aprender, construir e evoluir: um projeto por vez.”*
